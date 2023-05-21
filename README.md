@@ -3,7 +3,7 @@ This is <b>Gaurav Tiwari</b>, <b style="color:blue">computer<b/>  <b style="colo
 <br>
       
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=false" />Python
-<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/html.png?raw=true" />Python
+<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=false" />HTML
       
 <!--
 **0gaurav4/0gaurav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
