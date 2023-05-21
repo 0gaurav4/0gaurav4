@@ -25,13 +25,8 @@ Here are some ideas to get you started:
 
 
 [![GitHub stats](https://img.shields.io/github/stars/0gaurav4?style=social)](https://github.com/0gaurav4?tab=stars)
-
-[![GitHub forks](https://img.shields.io/github/forks/0gaurav4?style=social)](https://github.com/0gaurav4/network/members)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/0gaurav4?style=social)](https://github.com/0gaurav4/watchers)
-
-
-
+[![GitHub forks](https://img.shields.io/github/forks/your-repository-name?style=social)](https://github.com/your-repository-name/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/your-repository-name?style=social)](https://github.com/your-repository-name/watchers)
 
 
 
