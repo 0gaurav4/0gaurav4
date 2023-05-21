@@ -1,6 +1,6 @@
 ### About Me &nbsp; `¯\_(ツ)_/¯`
 
-<h3>This is `Gaurav Tiwari`, <b style="color:blue">computer<b/>  <b style="color:green">science<b/> student skilled in  <b style="color:lime">python<b/> programming language, and  <b style="color:orange">frontend<b/>. Actively seeks out new opportunities to enhance skill.</h3>
+<h3>This is `Gaurav Tiwari`, <i style="color:blue">computer<i/>  <i style="color:green">science<i/> student skilled in  <i style="color:lime">python<i/> programming language, and  <i style="color:orange">frontend<i/>. Actively seeks out new opportunities to enhance skill.</h3>
 <br>
       
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=false" />Python
