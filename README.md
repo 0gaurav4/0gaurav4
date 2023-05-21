@@ -1,5 +1,5 @@
 ### About Me 👋
-This is Gaurav Tiwari, computer science student skilled in python programming language, and frontend. Actively seeks out new opportunities to enhance skill.
+This is <b>Gaurav Tiwari</b>, <b style="color:blue">computer</b>  <b style="color:green">science</b> student skilled in  <b style="color:lime">python</b> programming language, and  <b style="color:orange">frontend</b>. Actively seeks out new opportunities to enhance skill.
 <br>
 
 <!--
