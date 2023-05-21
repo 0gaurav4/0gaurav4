@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Gaueav GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&show_icons=true&theme=transparent)
 
+![Gaurav GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&hide=contribs,prs)
 
 
 ## GitHub Streak
