@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 > Python Developer Crafting Innovative Solutions for Tomorrow's Challenges.
 
-— Gaurav Tiwari
+— `Gaurav Tiwari`
 
 
 <!-- ![Snake animation](https://github.com/0gaurav4/0gaurav4/blob/output/github-contribution-grid-snake.svg) -->
