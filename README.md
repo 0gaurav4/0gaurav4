@@ -1,6 +1,6 @@
 ### About Me &nbsp; `¯\_(ツ)_/¯`
 
-<h4>This is `Gaurav Tiwari`, __computer science__ student skilled in  python programming language, and  frontend. Actively seeks out new opportunities to enhance skill.</h4>
+This is `Gaurav Tiwari`, __computer science__ student skilled in  __python programming language__, and  __frontend__. Actively seeks out new opportunities to enhance skill.
 <br>
       
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=false" />Python
