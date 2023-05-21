@@ -21,10 +21,16 @@ Here are some ideas to get you started:
 
 <h1> GitHub Streak </h1>
 
+
+
+<h1> GitHub Streak </h1>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
 
 <h1> Top Langs </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
+
+![Snake animation](https://github.com/0gaurav4/0gaurav4/blob/output/github-contribution-grid-snake.svg)
 
 
