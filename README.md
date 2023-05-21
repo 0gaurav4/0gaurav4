@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ![Gaueav GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&show_icons=true&theme=transparent)
 
-![Gaurav GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&hide=contribs,prs)
-
 
 ## GitHub Streak
 
@@ -35,6 +33,11 @@ Here are some ideas to get you started:
 ## Top Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
+
+---
+> Python Developer Crafting Innovative Solutions for Tomorrow's Challenges.
+
+— Gaurav Tiwari
 
 
 <!-- ![Snake animation](https://github.com/0gaurav4/0gaurav4/blob/output/github-contribution-grid-snake.svg) -->
