@@ -1,4 +1,4 @@
-### About Me 👋
+### About Me ¯\_(ツ)_/¯
 This is <b>Gaurav Tiwari</b>, <b style="color:blue">computer<b/>  <b style="color:green">science<b/> student skilled in  <b style="color:lime">python<b/> programming language, and  <b style="color:orange">frontend<b/>. Actively seeks out new opportunities to enhance skill.
 <br>
       
