@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying MCA from BBDU, Lucknow.
 - 🌱 I’m currently learning ML and AI.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
-- 
+
 
 ## GitHub Statistics
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
 
 
-![Snake animation](https://github.com/0gaurav4/0gaurav4/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/0gaurav4/0gaurav4/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
