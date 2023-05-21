@@ -2,7 +2,7 @@
 This is <b>Gaurav Tiwari</b>, <b style="color:blue">computer<b/>  <b style="color:green">science<b/> student skilled in  <b style="color:lime">python<b/> programming language, and  <b style="color:orange">frontend<b/>. Actively seeks out new opportunities to enhance skill.
 <br>
       
-<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=true" />Python
+<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=false" />Python
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/html.png?raw=true" />Python
       
 <!--
