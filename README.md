@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me 👋
+This is Gaurav Tiwari, computer science student skilled in python programming language, and frontend. Actively seeks out new opportunities to enhance skill.
 
 <!--
 **0gaurav4/0gaurav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
