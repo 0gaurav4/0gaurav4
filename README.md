@@ -4,8 +4,8 @@ This is <b>Gaurav Tiwari</b>, <b style="color:blue">computer<b/>  <b style="colo
       
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/python.png?raw=false" />Python
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/HTML.png?raw=false" />HTML
-<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/CSS.png?raw=false" />CSS
-<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/JAVASCRIPT.png?raw=false" />JAVASCRIPT
+<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=false" />CSS
+<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=false" />JAVASCRIPT
       
 <!--
 **0gaurav4/0gaurav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
