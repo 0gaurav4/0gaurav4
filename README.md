@@ -19,7 +19,18 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML and AI.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
-<h1> GitHub Streak </h1>
+<h1> GitHub Stats</h1>
+
+## GitHub Statistics
+
+
+
+[![GitHub stars](https://img.shields.io/github/stars/0gaurav4/your-repository-name?style=social)](https://github.com/0gaurav4/your-repository-name/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/0gaurav4/your-repository-name?style=social)](https://github.com/0gaurav4/your-repository-name/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/0gaurav4/your-repository-name?style=social)](https://github.com/0gaurav4/your-repository-name/watchers)
+
+
+
 
 
 
