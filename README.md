@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
 <h1> GitHub Streak </h1>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
 
-<h1> [Top Langs </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h1> Top Langs </h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
 
 
