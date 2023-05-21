@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/0gaurav4/0gaurav4?style=social)](https://github.com/0gaurav4/your-repository-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/0gaurav4/0gaurav4?style=social)](https://github.com/0gaurav4/your-repository-name/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/0gaurav4/0gaurav4?style=social)](https://github.com/0gaurav4/your-repository-name/watchers)
-
-
 [![GitHub stats](https://img.shields.io/github/stars/0gaurav4?style=social)](https://github.com/0gaurav4?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/0gaurav4/0gaurav4?style=social)](https://github.com/0gaurav4/0gaurav4/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/0gaurav4/0gaurav4?style=social)](https://github.com/0gaurav4/0gaurav4/watchers)
+
+
 
 
 
