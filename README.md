@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## GitHub Statistics
 
 
-![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=transparent)
+![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line)
 
 
 ## GitHub Streak
