@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 ## GitHub Statistics
 
 
-![Gaueav GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&show_icons=true&theme=transparent)
+![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=transparent)
 
 
 ## GitHub Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats-sigma-five.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
 
 ## Top Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
 
 ---
 > Python Developer Crafting Innovative Solutions for Tomorrow's Challenges.
