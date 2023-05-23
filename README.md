@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## GitHub Streak
 
-[![GitHub Streak](http://github-readme-streak-stats-sigma-five.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
 
 ## Top Languages 
 
