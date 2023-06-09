@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 
 ## GitHub Streak
 
+![](https://github-readme-stats.vercel.app/api?username=0gaurav4&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0gaurav4&theme=dark&hide_border=true)<br/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)
 
 ## Top Languages 
