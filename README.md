@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## GitHub Statistics
 
 
-![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line)
+![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line&hide_border=true)
 
 
 ## GitHub Streak
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Top Languages 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark)](https://github.com/0gaurav4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/0gaurav4/github-readme-stats)
 
 ---
 > Python Developer Crafting Innovative Solutions for Tomorrow's Challenges.
