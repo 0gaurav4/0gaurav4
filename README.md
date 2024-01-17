@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 
 ![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line&hide_border=true)
+<br>
+![mysgrown's GitHub stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&show_icons=true&theme=radical)
 
 
 ## GitHub Streak
