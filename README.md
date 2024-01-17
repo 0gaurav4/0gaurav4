@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br/>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats) 
+ <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats) -->
 
 ## Top Languages 
 
