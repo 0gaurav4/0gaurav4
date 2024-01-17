@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0gaurav4&theme=dark&hide_border=true) 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats)  -->
-[![](https://streak-stats.demolab.com?user=0gaurav4&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=0gaurav4&theme=dark&hide_border=true)]
 <br/>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0gaurav4&theme=dark)](https://git.io/streak-stats) -->
