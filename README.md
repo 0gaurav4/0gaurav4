@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Gaueav GitHub stats](https://github-readmestats.vercel.app/apiusername=0gaurav4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+<img src="https://github-readmestats.vercel.app/apiusername=0gaurav4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height=150>
 
 
 ## GitHub Streak
