@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0gaurav4&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/0gaurav4/github-readme-stats)
 
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{0gaurav4}/count.svg)
+ 
 ---
 > Python Developer Crafting Innovative Solutions for Tomorrow's Challenges.
 
