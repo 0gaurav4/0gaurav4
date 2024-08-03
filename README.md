@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying MCA from BBDU, Lucknow.
-- 🌱 I’m currently learning ML and AI.
+- 🔭 I recently did MCA from BBDU, Lucknow.
+- 🌱 I’m currently learning web development.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
 
