@@ -8,7 +8,7 @@ This is __`Gaurav Tiwari`__, *__computer science__* student skilled in  *__pytho
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/css.png?raw=false" />CSS &nbsp;
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/javascript.png?raw=false" />JAVASCRIPT &nbsp;
 <img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/bootstrap-logo.png?raw=false" />BOOTSTRAP
-<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mongodb-leaf.png?raw=false" />MONGODB
+<img style="margin-right:10px" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/mysql-logo.png" />MYSQL
       
 <!--
 **0gaurav4/0gaurav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
