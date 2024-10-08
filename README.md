@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I recently did MCA from BBDU, Lucknow.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working with web development, AI, Python.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
 
