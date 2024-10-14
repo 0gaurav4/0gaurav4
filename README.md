@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working with web development, AI, Python.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
-https://github.com/saadeghi/saadeghi/blob/master/dino.gif
+
 
 
 
