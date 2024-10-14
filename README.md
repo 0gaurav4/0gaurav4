@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## GitHub Statistics
 
 
-![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line&hide_border=true)
+![Gaueav GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0gaurav4&show_icons=true&theme=react&line&hide_border=true&count_private=true)
 
 
 ## GitHub Streak
