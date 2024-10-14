@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working with web development, AI, Python.
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
-![image](https://github.com/user-attachments/assets/ffd9a371-cca6-4592-a3e1-ec79afbfc2f6)
 
 
 ## GitHub Statistics
