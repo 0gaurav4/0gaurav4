@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... "Python Developer Crafting Innovative Solutions for Tomorrow's Challenges"
 
 
-
+![0gaurav4's Stats](https://github-readme-stats.vercel.app/api?username=0gaurav4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## GitHub Statistics
